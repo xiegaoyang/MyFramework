@@ -1,4 +1,4 @@
-package com.xgy.myframework;
+package com.xgy.myframework.log;
 
 /**
  * Created by gowild.cn on 2017/6/10.
